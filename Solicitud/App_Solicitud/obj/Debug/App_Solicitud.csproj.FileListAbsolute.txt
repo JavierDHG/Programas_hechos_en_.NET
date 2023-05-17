@@ -1,0 +1,8 @@
+F:\Carpeta David\Trabajos U\.Net\Solicitud\App_Solicitud\bin\Debug\App_Solicitud.exe.config
+F:\Carpeta David\Trabajos U\.Net\Solicitud\App_Solicitud\bin\Debug\App_Solicitud.exe
+F:\Carpeta David\Trabajos U\.Net\Solicitud\App_Solicitud\bin\Debug\App_Solicitud.pdb
+F:\Carpeta David\Trabajos U\.Net\Solicitud\App_Solicitud\obj\Debug\App_Solicitud.csproj.AssemblyReference.cache
+F:\Carpeta David\Trabajos U\.Net\Solicitud\App_Solicitud\obj\Debug\App_Solicitud.csproj.SuggestedBindingRedirects.cache
+F:\Carpeta David\Trabajos U\.Net\Solicitud\App_Solicitud\obj\Debug\App_Solicitud.csproj.CoreCompileInputs.cache
+F:\Carpeta David\Trabajos U\.Net\Solicitud\App_Solicitud\obj\Debug\App_Solicitud.exe
+F:\Carpeta David\Trabajos U\.Net\Solicitud\App_Solicitud\obj\Debug\App_Solicitud.pdb

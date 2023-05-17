@@ -1,0 +1,13 @@
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\obj\Debug\Triki.vbproj.AssemblyReference.cache
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\obj\Debug\Triki.vbproj.SuggestedBindingRedirects.cache
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\obj\Debug\Triki.frm1.resources
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\obj\Debug\Triki.Resources.resources
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\obj\Debug\Triki.vbproj.GenerateResource.cache
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\obj\Debug\Triki.vbproj.CoreCompileInputs.cache
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\bin\Debug\Triki.exe.config
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\bin\Debug\Triki.exe
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\bin\Debug\Triki.pdb
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\bin\Debug\Triki.xml
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\obj\Debug\Triki.exe
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\obj\Debug\Triki.xml
+F:\Carpeta David\Trabajos U\.Net\Triki\Triki\obj\Debug\Triki.pdb

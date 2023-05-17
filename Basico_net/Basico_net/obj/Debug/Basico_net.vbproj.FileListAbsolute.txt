@@ -1,0 +1,12 @@
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\bin\Debug\Basico_net.exe.config
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\bin\Debug\Basico_net.exe
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\bin\Debug\Basico_net.pdb
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\bin\Debug\Basico_net.xml
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\obj\Debug\Basico_net.vbproj.AssemblyReference.cache
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\obj\Debug\Basico_net.vbproj.SuggestedBindingRedirects.cache
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\obj\Debug\Basico_net.Resources.resources
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\obj\Debug\Basico_net.vbproj.GenerateResource.cache
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\obj\Debug\Basico_net.vbproj.CoreCompileInputs.cache
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\obj\Debug\Basico_net.exe
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\obj\Debug\Basico_net.xml
+F:\Carpeta David\Trabajos U\.Net\Basico_net\Basico_net\obj\Debug\Basico_net.pdb
