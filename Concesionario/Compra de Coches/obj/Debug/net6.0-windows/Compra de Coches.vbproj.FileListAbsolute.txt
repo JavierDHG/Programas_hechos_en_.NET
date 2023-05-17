@@ -1,0 +1,29 @@
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\Compra de Coches.exe
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\Compra de Coches.deps.json
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\Compra de Coches.runtimeconfig.json
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\Compra de Coches.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\Compra de Coches.pdb
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra de Coches.vbproj.AssemblyReference.cache
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra_de_Coches.Resources.resources
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra de Coches.vbproj.GenerateResource.cache
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra de Coches.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra de Coches.AssemblyInfoInputs.cache
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra de Coches.AssemblyInfo.vb
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra de Coches.vbproj.CoreCompileInputs.cache
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra de Coches.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\refint\Compra de Coches.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra de Coches.pdb
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra de Coches.genruntimeconfig.cache
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\ref\Compra de Coches.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra_de_Coches.frm_Inicio.resources
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra_de_Coches.frm_register.resources
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\Google.Protobuf.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\MySql.Data.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\ZstdNet.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\MySqlConnector.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra de Coches.vbproj.CopyComplete
+F:\Carpeta David\Trabajos U\.Net\Concesionario\Compra de Coches\obj\Debug\net6.0-windows\Compra_de_Coches.frm_Menuprincipal.resources
